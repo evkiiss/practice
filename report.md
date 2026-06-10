@@ -3,7 +3,6 @@
 ФИО: Булаева Ева Игоревна
 Группа: РПО/1, 1 курс
 Ссылка на GitHub: https://github.com/evkiiss/practice
-
 ## Выполненные коммиты
 1. init: add project description
 2. feat: add task journal script
